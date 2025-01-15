@@ -3,6 +3,7 @@ Here’s a combined and concise version of your README note that flows smoothly:
 ---
 Profile README
 About Me
+
 Hello! I'm passionate about continuous learning and personal growth.
 Interests
 I'm particularly interested in learning about:
